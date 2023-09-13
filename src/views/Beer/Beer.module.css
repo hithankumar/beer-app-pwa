@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.text{
+    padding-left: 4px;
+}
+.beerContact{
+    padding-left: 10px;
+}
+.icon:hover{
+    cursor: pointer;
+    color: #023020;
+}
+.content {
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 5px;
+}
+.content:hover{
+    color: #023020;
+}
+.heading {
+    font-size: 25px;
+    font-weight: 600;
+}

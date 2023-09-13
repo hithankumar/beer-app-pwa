@@ -1,0 +1,34 @@
+.list {
+  list-style: none;
+}
+
+.listContainer {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.listHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.noBeersFound{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
